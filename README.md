@@ -426,10 +426,10 @@ http://localhost:3000
 <img src="images/image-8.png" width="900"/>
 
 
-<img src="images/image-9.png" width="900"/>
+<img src="images/image-9.png" width="250"/>
 
 
-<img src="images/image-10.png" width="900"/>
+<img src="images/image-10.png" width="250"/>
 
 ---
 
