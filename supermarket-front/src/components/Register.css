@@ -1,0 +1,35 @@
+form {
+  width: 640px;
+
+}
+
+
+
+
+.table.teste{
+  background-image: linear-gradient(to right, #ff91006e, #ff91009c);
+  border-radius:15px;
+--bs-body-bg:none;
+border-bottom: solid rgba(0, 0, 0, 0.452) 2px;
+border-top: 8px solid rgb(0, 0, 0);
+}
+
+tr td{
+
+  font-weight: bolder;
+}
+
+.formRegisterProduct{
+
+   background-image: linear-gradient(to right, #ff91008c, #ff91008c);
+
+
+}
+
+
+.kk{
+  max-width: 150px ;
+  border-bottom: solid rgb(0, 0, 0) 2px;
+  opacity: 1.0;
+}
+
